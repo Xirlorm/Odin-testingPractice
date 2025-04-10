@@ -4,7 +4,7 @@
   "description": "Practicing Test Driven Development(TDD) with jest",
   "private": true,
   "scripts": {
-    "test": "jest --watch"
+    "test": "jest --watch src/__tests__/"
   },
   "keywords": [],
   "author": "@xirlorm",
